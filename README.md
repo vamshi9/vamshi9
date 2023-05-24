@@ -8,6 +8,9 @@
 
 [A Docker Mystery: The Sudden Failure in spaCy(NLP) and the Unseen Dependency](https://medium.com/@vamshi.bachaneboina/a-docker-mystery-the-sudden-failure-in-spacy-nlp-and-the-unseen-dependency-94a7b6800455)
 
+#### 7 Deadly Sins - Javascript
+[7 Deadly Sins: Chapter 1 — Standardization in React](https://medium.com/@vamshi.bachaneboina/7-deadly-sins-chapter-1-standardization-in-react-6b6c3371e247)
+
 ------------------
 
 <a href="https://www.youtube.com/watch?v=dtbF-nYQzAA" target="_blank"><img src="https://ksr-ugc.imgix.net/assets/029/431/215/4dafcda1231fbd007a1f20e969291c64_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1591897988&auto=format&frame=1&q=92&s=fc7f22da581581e0e73ea4e703294ec8" 
