@@ -1,6 +1,16 @@
 ### Hola, I'm Vamshi Bachaneboina
 #### You can call me vam 👋
 
+As a product-oriented Software Engineer and CTO, my passion lies in bridging the gap between advanced technology and practical solutions. 
+
+With my roots in JavaScript, ReactJS, Typescript, Redux, NodeJS, and Python, I've led and transformed teams at Wisedoc Inc and Qapita Fintech, delivering cutting-edge features, optimizing web vitals, and automating end-to-end tests. 
+
+I am known for my doer's mentality, often described as someone who prefers execution over talk. I enjoy digging deep into problems, delivering efficient solutions iteratively, and ensuring robust outcomes with a continuous deployment mindset. I strongly believe in a blend of 60% strategic thinking and 40% efficient coding. 
+
+My hands-on experience with AWS, Docker, PlaywrightJS, and OpenAI has empowered me to streamline cloud computing processes, automate testing, and enhance product offerings.
+
+As a leader, my focus remains on nurturing a culture of collaboration, continuous learning, and process improvement, leveraging my communication and Scrum principles. I am on a constant quest for opportunities where I can contribute my unique blend of skills to create advanced digital solutions.
+
 ------------------
 
 ### Articles:
