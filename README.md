@@ -14,16 +14,24 @@ As a leader, my focus remains on nurturing a culture of collaboration, continuou
 ------------------
 
 ### Articles:
-[Optimizing Lambda Serverless Deployments: Overcoming the Upload Limit with Webpack](https://medium.com/@vamshi.bachaneboina/optimizing-lambda-serverless-deployments-overcoming-the-upload-limit-with-webpack-61a12f633c12)
 
-[A Docker Mystery: The Sudden Failure in spaCy(NLP) and the Unseen Dependency](https://medium.com/@vamshi.bachaneboina/a-docker-mystery-the-sudden-failure-in-spacy-nlp-and-the-unseen-dependency-94a7b6800455)
+#### Javascript:
 
-[Unminifying bundle in Sentry error tracking without ejecting Creat React App(CRA): An Eagle’s Eye](https://medium.com/@vamshi.bachaneboina/unminifying-bundle-in-sentry-error-tracking-without-ejecting-creat-react-app-cra-an-eagles-eye-5fc78d69ea45)
-
-#### 7 Deadly Sins - Javascript
 [7 Deadly Sins of Programming: Chapter 1 — Standardization in React](https://medium.com/@vamshi.bachaneboina/7-deadly-sins-chapter-1-standardization-in-react-6b6c3371e247)
 
 [7 Deadly Sins of Programming: Chapter 2 — Ignoring SOLID Principles](https://medium.com/@vamshi.bachaneboina/7-deadly-sins-of-programming-sin-2-ignoring-solid-principles-d9d0ac192dcd)
+
+[Mimic multithreading in Javascript with Web Workers](https://medium.com/@vamshi.bachaneboina/mimic-multithreading-in-javascript-with-web-workers-b3cf60238d57)
+
+[Why React is performance efficient - Event Driven, Event Pooling, Synthetic Events](https://medium.com/@vamshi.bachaneboina/why-react-is-performance-efficient-event-driven-event-pooling-synthetic-events-ba457c9172dc)
+
+#### Cloud:
+
+[Optimizing Lambda Serverless Deployments: Overcoming the Upload Limit with Webpack](https://medium.com/@vamshi.bachaneboina/optimizing-lambda-serverless-deployments-overcoming-the-upload-limit-with-webpack-61a12f633c12)
+
+#### Python
+[A Docker Mystery: The Sudden Failure in spaCy(NLP) and the Unseen Dependency](https://medium.com/@vamshi.bachaneboina/a-docker-mystery-the-sudden-failure-in-spacy-nlp-and-the-unseen-dependency-94a7b6800455)
+
 
 ------------------
 
