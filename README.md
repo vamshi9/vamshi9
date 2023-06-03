@@ -27,6 +27,8 @@ As a leader, my focus remains on nurturing a culture of collaboration, continuou
 
 [Unminifying bundle in Sentry error tracking without ejecting Creat React App(CRA): An Eagle’s Eye](https://medium.com/@vamshi.bachaneboina/unminifying-bundle-in-sentry-error-tracking-without-ejecting-creat-react-app-cra-an-eagles-eye-5fc78d69ea45)
 
+[Turtoo figures out Lazy Initializer in React to improve performance](https://medium.com/@vamshi.bachaneboina/turtoo-figures-out-lazy-initializer-in-react-to-improve-performance-dec449a99dff)
+
 #### Cloud:
 
 [Optimizing Lambda Serverless Deployments: Overcoming the Upload Limit with Webpack](https://medium.com/@vamshi.bachaneboina/optimizing-lambda-serverless-deployments-overcoming-the-upload-limit-with-webpack-61a12f633c12)
