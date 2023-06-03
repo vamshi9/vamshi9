@@ -15,7 +15,7 @@ As a leader, my focus remains on nurturing a culture of collaboration, continuou
 
 ### Articles:
 
-#### Javascript:
+#### Javascript & React:
 
 [7 Deadly Sins of Programming: Chapter 1 — Standardization in React](https://medium.com/@vamshi.bachaneboina/7-deadly-sins-chapter-1-standardization-in-react-6b6c3371e247)
 
@@ -24,6 +24,8 @@ As a leader, my focus remains on nurturing a culture of collaboration, continuou
 [Mimic multithreading in Javascript with Web Workers](https://medium.com/@vamshi.bachaneboina/mimic-multithreading-in-javascript-with-web-workers-b3cf60238d57)
 
 [Why React is performance efficient - Event Driven, Event Pooling, Synthetic Events](https://medium.com/@vamshi.bachaneboina/why-react-is-performance-efficient-event-driven-event-pooling-synthetic-events-ba457c9172dc)
+
+[Unminifying bundle in Sentry error tracking without ejecting Creat React App(CRA): An Eagle’s Eye](https://medium.com/@vamshi.bachaneboina/unminifying-bundle-in-sentry-error-tracking-without-ejecting-creat-react-app-cra-an-eagles-eye-5fc78d69ea45)
 
 #### Cloud:
 
